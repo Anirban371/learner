@@ -1,5 +1,5 @@
-# learner
+# Dashboard
 
-## Edditing the file
+## SuperStore Sales Dashboard
 
-Its a markdown file in this reposetory.
+A Superstore sales dashboard by PowerBi.
